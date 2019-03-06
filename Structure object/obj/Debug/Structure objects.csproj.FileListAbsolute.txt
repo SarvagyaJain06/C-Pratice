@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\Structure object\bin\Debug\Structure object.exe.config
+D:\CSharp\CSharpTraining\Structure object\bin\Debug\Structure object.exe
+D:\CSharp\CSharpTraining\Structure object\bin\Debug\Structure object.pdb
+D:\CSharp\CSharpTraining\Structure object\obj\Debug\Structure objects.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Structure object\obj\Debug\Structure object.exe
+D:\CSharp\CSharpTraining\Structure object\obj\Debug\Structure object.pdb
