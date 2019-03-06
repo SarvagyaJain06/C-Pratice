@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\Nearest 20\bin\Debug\Nearest 20.exe.config
+D:\CSharp\CSharpTraining\Nearest 20\bin\Debug\Nearest 20.exe
+D:\CSharp\CSharpTraining\Nearest 20\bin\Debug\Nearest 20.pdb
+D:\CSharp\CSharpTraining\Nearest 20\obj\Debug\Nearest 20.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Nearest 20\obj\Debug\Nearest 20.exe
+D:\CSharp\CSharpTraining\Nearest 20\obj\Debug\Nearest 20.pdb
