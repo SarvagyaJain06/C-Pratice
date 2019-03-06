@@ -1,0 +1,7 @@
+D:\CSharp\CSharpTraining\Calculator using Delegate\bin\Debug\Calculator using Delegate.exe.config
+D:\CSharp\CSharpTraining\Calculator using Delegate\bin\Debug\Calculator using Delegate.exe
+D:\CSharp\CSharpTraining\Calculator using Delegate\bin\Debug\Calculator using Delegate.pdb
+D:\CSharp\CSharpTraining\Calculator using Delegate\obj\Debug\Calculator using Delegate.csprojAssemblyReference.cache
+D:\CSharp\CSharpTraining\Calculator using Delegate\obj\Debug\Calculator using Delegate.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Calculator using Delegate\obj\Debug\Calculator using Delegate.exe
+D:\CSharp\CSharpTraining\Calculator using Delegate\obj\Debug\Calculator using Delegate.pdb
