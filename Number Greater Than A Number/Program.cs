@@ -10,6 +10,7 @@ namespace Number_Greater_Than_A_Number
     {
         static void Main(string[] args)
         {
+			///hjhuhui
             Console.WriteLine("Enter the number");
             int input1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Enter the second number");
