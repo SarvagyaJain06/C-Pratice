@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\Check sum or an integer\bin\Debug\Check sum or an integer.exe.config
+D:\CSharp\CSharpTraining\Check sum or an integer\bin\Debug\Check sum or an integer.exe
+D:\CSharp\CSharpTraining\Check sum or an integer\bin\Debug\Check sum or an integer.pdb
+D:\CSharp\CSharpTraining\Check sum or an integer\obj\Debug\Check sum or an integer.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Check sum or an integer\obj\Debug\Check sum or an integer.exe
+D:\CSharp\CSharpTraining\Check sum or an integer\obj\Debug\Check sum or an integer.pdb

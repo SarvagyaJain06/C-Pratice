@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\Method Returning Structure\bin\Debug\Method Returning Structure.exe.config
+D:\CSharp\CSharpTraining\Method Returning Structure\bin\Debug\Method Returning Structure.exe
+D:\CSharp\CSharpTraining\Method Returning Structure\bin\Debug\Method Returning Structure.pdb
+D:\CSharp\CSharpTraining\Method Returning Structure\obj\Debug\Method Returning Structure.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Method Returning Structure\obj\Debug\Method Returning Structure.exe
+D:\CSharp\CSharpTraining\Method Returning Structure\obj\Debug\Method Returning Structure.pdb

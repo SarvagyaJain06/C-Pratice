@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\Multiplication Table\bin\Debug\Multiplication Table.exe.config
+D:\CSharp\CSharpTraining\Multiplication Table\bin\Debug\Multiplication Table.exe
+D:\CSharp\CSharpTraining\Multiplication Table\bin\Debug\Multiplication Table.pdb
+D:\CSharp\CSharpTraining\Multiplication Table\obj\Debug\Multiplication Table.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Multiplication Table\obj\Debug\Multiplication Table.exe
+D:\CSharp\CSharpTraining\Multiplication Table\obj\Debug\Multiplication Table.pdb

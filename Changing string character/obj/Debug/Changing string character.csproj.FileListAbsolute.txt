@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\Changing string character\bin\Debug\Changing string character.exe.config
+D:\CSharp\CSharpTraining\Changing string character\bin\Debug\Changing string character.exe
+D:\CSharp\CSharpTraining\Changing string character\bin\Debug\Changing string character.pdb
+D:\CSharp\CSharpTraining\Changing string character\obj\Debug\Changing string character.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Changing string character\obj\Debug\Changing string character.exe
+D:\CSharp\CSharpTraining\Changing string character\obj\Debug\Changing string character.pdb

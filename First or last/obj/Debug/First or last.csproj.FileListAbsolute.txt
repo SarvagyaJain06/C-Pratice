@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\First or last\bin\Debug\First or last.exe.config
+D:\CSharp\CSharpTraining\First or last\bin\Debug\First or last.exe
+D:\CSharp\CSharpTraining\First or last\bin\Debug\First or last.pdb
+D:\CSharp\CSharpTraining\First or last\obj\Debug\First or last.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\First or last\obj\Debug\First or last.exe
+D:\CSharp\CSharpTraining\First or last\obj\Debug\First or last.pdb

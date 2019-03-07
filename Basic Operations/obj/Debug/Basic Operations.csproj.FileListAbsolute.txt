@@ -1,0 +1,7 @@
+D:\CSharp\CSharpTraining\Basic Operations\bin\Debug\Basic Operations.exe.config
+D:\CSharp\CSharpTraining\Basic Operations\bin\Debug\Basic Operations.exe
+D:\CSharp\CSharpTraining\Basic Operations\bin\Debug\Basic Operations.pdb
+D:\CSharp\CSharpTraining\Basic Operations\obj\Debug\Basic Operations.csprojAssemblyReference.cache
+D:\CSharp\CSharpTraining\Basic Operations\obj\Debug\Basic Operations.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Basic Operations\obj\Debug\Basic Operations.exe
+D:\CSharp\CSharpTraining\Basic Operations\obj\Debug\Basic Operations.pdb

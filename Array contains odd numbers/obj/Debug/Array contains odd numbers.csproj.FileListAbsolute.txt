@@ -1,0 +1,7 @@
+D:\CSharp\CSharpTraining\Array contains odd numbers\bin\Debug\Array contains odd numbers.exe.config
+D:\CSharp\CSharpTraining\Array contains odd numbers\bin\Debug\Array contains odd numbers.exe
+D:\CSharp\CSharpTraining\Array contains odd numbers\bin\Debug\Array contains odd numbers.pdb
+D:\CSharp\CSharpTraining\Array contains odd numbers\obj\Debug\Array contains odd numbers.csprojAssemblyReference.cache
+D:\CSharp\CSharpTraining\Array contains odd numbers\obj\Debug\Array contains odd numbers.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Array contains odd numbers\obj\Debug\Array contains odd numbers.exe
+D:\CSharp\CSharpTraining\Array contains odd numbers\obj\Debug\Array contains odd numbers.pdb

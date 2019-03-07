@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\Sum of element of array\bin\Debug\Sum of element of array.exe.config
+D:\CSharp\CSharpTraining\Sum of element of array\bin\Debug\Sum of element of array.exe
+D:\CSharp\CSharpTraining\Sum of element of array\bin\Debug\Sum of element of array.pdb
+D:\CSharp\CSharpTraining\Sum of element of array\obj\Debug\Sum of element of array.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Sum of element of array\obj\Debug\Sum of element of array.exe
+D:\CSharp\CSharpTraining\Sum of element of array\obj\Debug\Sum of element of array.pdb

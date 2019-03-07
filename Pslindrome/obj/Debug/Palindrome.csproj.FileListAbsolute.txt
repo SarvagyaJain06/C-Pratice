@@ -1,0 +1,7 @@
+D:\CSharp\CSharpTraining\Pslindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Pslindrome\bin\Debug\Pslindrome.exe.config
+D:\CSharp\CSharpTraining\Pslindrome\bin\Debug\Pslindrome.exe
+D:\CSharp\CSharpTraining\Pslindrome\bin\Debug\Pslindrome.pdb
+D:\CSharp\CSharpTraining\Pslindrome\obj\Debug\Palindrome.csprojAssemblyReference.cache
+D:\CSharp\CSharpTraining\Pslindrome\obj\Debug\Pslindrome.exe
+D:\CSharp\CSharpTraining\Pslindrome\obj\Debug\Pslindrome.pdb

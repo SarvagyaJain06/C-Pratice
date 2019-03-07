@@ -1,0 +1,7 @@
+D:\CSharp\CSharpTraining\Longest word in a string\obj\Debug\Longest word in a string.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Longest word in a string\obj\Debug\Longest word in a string.csprojAssemblyReference.cache
+D:\CSharp\CSharpTraining\Longest word in a string\bin\Debug\Longest word in a string.exe.config
+D:\CSharp\CSharpTraining\Longest word in a string\bin\Debug\Longest word in a string.exe
+D:\CSharp\CSharpTraining\Longest word in a string\bin\Debug\Longest word in a string.pdb
+D:\CSharp\CSharpTraining\Longest word in a string\obj\Debug\Longest word in a string.exe
+D:\CSharp\CSharpTraining\Longest word in a string\obj\Debug\Longest word in a string.pdb

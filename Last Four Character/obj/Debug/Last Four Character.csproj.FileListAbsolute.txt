@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\Last Four Character\bin\Debug\Last Four Character.exe.config
+D:\CSharp\CSharpTraining\Last Four Character\bin\Debug\Last Four Character.exe
+D:\CSharp\CSharpTraining\Last Four Character\bin\Debug\Last Four Character.pdb
+D:\CSharp\CSharpTraining\Last Four Character\obj\Debug\Last Four Character.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Last Four Character\obj\Debug\Last Four Character.exe
+D:\CSharp\CSharpTraining\Last Four Character\obj\Debug\Last Four Character.pdb

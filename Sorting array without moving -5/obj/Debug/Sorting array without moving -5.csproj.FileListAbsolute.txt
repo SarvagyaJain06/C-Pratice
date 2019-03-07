@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\Sorting array without moving -5\bin\Debug\Sorting array without moving -5.exe.config
+D:\CSharp\CSharpTraining\Sorting array without moving -5\bin\Debug\Sorting array without moving -5.exe
+D:\CSharp\CSharpTraining\Sorting array without moving -5\bin\Debug\Sorting array without moving -5.pdb
+D:\CSharp\CSharpTraining\Sorting array without moving -5\obj\Debug\Sorting array without moving -5.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Sorting array without moving -5\obj\Debug\Sorting array without moving -5.exe
+D:\CSharp\CSharpTraining\Sorting array without moving -5\obj\Debug\Sorting array without moving -5.pdb

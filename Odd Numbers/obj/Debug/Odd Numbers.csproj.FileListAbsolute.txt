@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\Odd Numbers\bin\Debug\Odd Numbers.exe.config
+D:\CSharp\CSharpTraining\Odd Numbers\bin\Debug\Odd Numbers.exe
+D:\CSharp\CSharpTraining\Odd Numbers\bin\Debug\Odd Numbers.pdb
+D:\CSharp\CSharpTraining\Odd Numbers\obj\Debug\Odd Numbers.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Odd Numbers\obj\Debug\Odd Numbers.exe
+D:\CSharp\CSharpTraining\Odd Numbers\obj\Debug\Odd Numbers.pdb

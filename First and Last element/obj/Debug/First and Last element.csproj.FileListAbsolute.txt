@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\First and Last element\bin\Debug\First and Last element.exe.config
+D:\CSharp\CSharpTraining\First and Last element\bin\Debug\First and Last element.exe
+D:\CSharp\CSharpTraining\First and Last element\bin\Debug\First and Last element.pdb
+D:\CSharp\CSharpTraining\First and Last element\obj\Debug\First and Last element.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\First and Last element\obj\Debug\First and Last element.exe
+D:\CSharp\CSharpTraining\First and Last element\obj\Debug\First and Last element.pdb

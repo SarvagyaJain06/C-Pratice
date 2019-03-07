@@ -1,0 +1,7 @@
+D:\CSharp\CSharpTraining\Reverse Order\bin\Debug\Reverse Order.exe.config
+D:\CSharp\CSharpTraining\Reverse Order\bin\Debug\Reverse Order.exe
+D:\CSharp\CSharpTraining\Reverse Order\bin\Debug\Reverse Order.pdb
+D:\CSharp\CSharpTraining\Reverse Order\obj\Debug\Reverse Order.csprojAssemblyReference.cache
+D:\CSharp\CSharpTraining\Reverse Order\obj\Debug\Reverse Order.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Reverse Order\obj\Debug\Reverse Order.exe
+D:\CSharp\CSharpTraining\Reverse Order\obj\Debug\Reverse Order.pdb

@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\Abstract class implementation\bin\Debug\Abstract class implementation.exe.config
+D:\CSharp\CSharpTraining\Abstract class implementation\bin\Debug\Abstract class implementation.exe
+D:\CSharp\CSharpTraining\Abstract class implementation\bin\Debug\Abstract class implementation.pdb
+D:\CSharp\CSharpTraining\Abstract class implementation\obj\Debug\Abstract class implementation.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Abstract class implementation\obj\Debug\Abstract class implementation.exe
+D:\CSharp\CSharpTraining\Abstract class implementation\obj\Debug\Abstract class implementation.pdb

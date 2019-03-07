@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\Struct Initialization\bin\Debug\Struct Initialization.exe.config
+D:\CSharp\CSharpTraining\Struct Initialization\bin\Debug\Struct Initialization.exe
+D:\CSharp\CSharpTraining\Struct Initialization\bin\Debug\Struct Initialization.pdb
+D:\CSharp\CSharpTraining\Struct Initialization\obj\Debug\Struct Initialization.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Struct Initialization\obj\Debug\Struct Initialization.exe
+D:\CSharp\CSharpTraining\Struct Initialization\obj\Debug\Struct Initialization.pdb

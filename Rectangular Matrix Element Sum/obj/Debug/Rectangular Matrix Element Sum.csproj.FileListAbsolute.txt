@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\Rectangular Matrix Element Sum\bin\Debug\Rectangular Matrix Element Sum.exe.config
+D:\CSharp\CSharpTraining\Rectangular Matrix Element Sum\bin\Debug\Rectangular Matrix Element Sum.exe
+D:\CSharp\CSharpTraining\Rectangular Matrix Element Sum\bin\Debug\Rectangular Matrix Element Sum.pdb
+D:\CSharp\CSharpTraining\Rectangular Matrix Element Sum\obj\Debug\Rectangular Matrix Element Sum.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Rectangular Matrix Element Sum\obj\Debug\Rectangular Matrix Element Sum.exe
+D:\CSharp\CSharpTraining\Rectangular Matrix Element Sum\obj\Debug\Rectangular Matrix Element Sum.pdb

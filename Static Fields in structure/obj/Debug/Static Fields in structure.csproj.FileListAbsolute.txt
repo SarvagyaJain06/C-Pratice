@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\Static Fields in structure\bin\Debug\Static Fields in structure.exe.config
+D:\CSharp\CSharpTraining\Static Fields in structure\bin\Debug\Static Fields in structure.exe
+D:\CSharp\CSharpTraining\Static Fields in structure\bin\Debug\Static Fields in structure.pdb
+D:\CSharp\CSharpTraining\Static Fields in structure\obj\Debug\Static Fields in structure.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Static Fields in structure\obj\Debug\Static Fields in structure.exe
+D:\CSharp\CSharpTraining\Static Fields in structure\obj\Debug\Static Fields in structure.pdb

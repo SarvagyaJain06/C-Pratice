@@ -1,0 +1,7 @@
+D:\CSharp\CSharpTraining\Calculator\bin\Debug\Calculator.exe.config
+D:\CSharp\CSharpTraining\Calculator\bin\Debug\Calculator.exe
+D:\CSharp\CSharpTraining\Calculator\bin\Debug\Calculator.pdb
+D:\CSharp\CSharpTraining\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\CSharp\CSharpTraining\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Calculator\obj\Debug\Calculator.exe
+D:\CSharp\CSharpTraining\Calculator\obj\Debug\Calculator.pdb

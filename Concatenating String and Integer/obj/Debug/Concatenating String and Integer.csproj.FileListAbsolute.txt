@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\Concatenating String and Integer\bin\Debug\Concatenating String and Integer.exe.config
+D:\CSharp\CSharpTraining\Concatenating String and Integer\bin\Debug\Concatenating String and Integer.exe
+D:\CSharp\CSharpTraining\Concatenating String and Integer\bin\Debug\Concatenating String and Integer.pdb
+D:\CSharp\CSharpTraining\Concatenating String and Integer\obj\Debug\Concatenating String and Integer.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Concatenating String and Integer\obj\Debug\Concatenating String and Integer.exe
+D:\CSharp\CSharpTraining\Concatenating String and Integer\obj\Debug\Concatenating String and Integer.pdb

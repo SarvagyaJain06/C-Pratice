@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\Multiple of 3 or  7\bin\Debug\Multiple of 3 or  7.exe.config
+D:\CSharp\CSharpTraining\Multiple of 3 or  7\bin\Debug\Multiple of 3 or  7.exe
+D:\CSharp\CSharpTraining\Multiple of 3 or  7\bin\Debug\Multiple of 3 or  7.pdb
+D:\CSharp\CSharpTraining\Multiple of 3 or  7\obj\Debug\Multiple of 3 or  7.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Multiple of 3 or  7\obj\Debug\Multiple of 3 or  7.exe
+D:\CSharp\CSharpTraining\Multiple of 3 or  7\obj\Debug\Multiple of 3 or  7.pdb

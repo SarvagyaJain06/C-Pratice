@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\No. of times the integer in array\bin\Debug\No.of_times_the_integer_in_array.exe.config
+D:\CSharp\CSharpTraining\No. of times the integer in array\bin\Debug\No.of_times_the_integer_in_array.exe
+D:\CSharp\CSharpTraining\No. of times the integer in array\bin\Debug\No.of_times_the_integer_in_array.pdb
+D:\CSharp\CSharpTraining\No. of times the integer in array\obj\Debug\No. of times the integer in array.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\No. of times the integer in array\obj\Debug\No.of_times_the_integer_in_array.exe
+D:\CSharp\CSharpTraining\No. of times the integer in array\obj\Debug\No.of_times_the_integer_in_array.pdb

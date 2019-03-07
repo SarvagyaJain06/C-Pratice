@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\Struct intialization without new Keyword\bin\Debug\Struct intialization without new Keyword.exe.config
+D:\CSharp\CSharpTraining\Struct intialization without new Keyword\bin\Debug\Struct intialization without new Keyword.exe
+D:\CSharp\CSharpTraining\Struct intialization without new Keyword\bin\Debug\Struct intialization without new Keyword.pdb
+D:\CSharp\CSharpTraining\Struct intialization without new Keyword\obj\Debug\Struct intialization without new Keyword.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Struct intialization without new Keyword\obj\Debug\Struct intialization without new Keyword.exe
+D:\CSharp\CSharpTraining\Struct intialization without new Keyword\obj\Debug\Struct intialization without new Keyword.pdb

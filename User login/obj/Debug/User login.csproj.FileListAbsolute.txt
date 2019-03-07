@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\User login\bin\Debug\User login.exe.config
+D:\CSharp\CSharpTraining\User login\bin\Debug\User login.exe
+D:\CSharp\CSharpTraining\User login\bin\Debug\User login.pdb
+D:\CSharp\CSharpTraining\User login\obj\Debug\User login.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\User login\obj\Debug\User login.exe
+D:\CSharp\CSharpTraining\User login\obj\Debug\User login.pdb

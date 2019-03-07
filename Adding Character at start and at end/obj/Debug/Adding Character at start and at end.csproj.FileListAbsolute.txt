@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\Adding Character at start and at end\bin\Debug\Adding Character at start and at end.exe.config
+D:\CSharp\CSharpTraining\Adding Character at start and at end\bin\Debug\Adding Character at start and at end.exe
+D:\CSharp\CSharpTraining\Adding Character at start and at end\bin\Debug\Adding Character at start and at end.pdb
+D:\CSharp\CSharpTraining\Adding Character at start and at end\obj\Debug\Adding Character at start and at end.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Adding Character at start and at end\obj\Debug\Adding Character at start and at end.exe
+D:\CSharp\CSharpTraining\Adding Character at start and at end\obj\Debug\Adding Character at start and at end.pdb

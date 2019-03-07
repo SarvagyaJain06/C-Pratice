@@ -1,0 +1,7 @@
+D:\CSharp\CSharpTraining\Sum Of Prime Number\bin\Debug\Sum Of Prime Number.exe.config
+D:\CSharp\CSharpTraining\Sum Of Prime Number\bin\Debug\Sum Of Prime Number.exe
+D:\CSharp\CSharpTraining\Sum Of Prime Number\bin\Debug\Sum Of Prime Number.pdb
+D:\CSharp\CSharpTraining\Sum Of Prime Number\obj\Debug\Sum Of Prime Number.csprojAssemblyReference.cache
+D:\CSharp\CSharpTraining\Sum Of Prime Number\obj\Debug\Sum Of Prime Number.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Sum Of Prime Number\obj\Debug\Sum Of Prime Number.exe
+D:\CSharp\CSharpTraining\Sum Of Prime Number\obj\Debug\Sum Of Prime Number.pdb

@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\Display book info\bin\Debug\Display book info.exe.config
+D:\CSharp\CSharpTraining\Display book info\bin\Debug\Display book info.exe
+D:\CSharp\CSharpTraining\Display book info\bin\Debug\Display book info.pdb
+D:\CSharp\CSharpTraining\Display book info\obj\Debug\Display book info.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Display book info\obj\Debug\Display book info.exe
+D:\CSharp\CSharpTraining\Display book info\obj\Debug\Display book info.pdb

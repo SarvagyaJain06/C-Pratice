@@ -1,0 +1,7 @@
+D:\CSharp\CSharpTraining\Create Laptop\bin\Debug\Create Laptop.exe.config
+D:\CSharp\CSharpTraining\Create Laptop\bin\Debug\Create Laptop.exe
+D:\CSharp\CSharpTraining\Create Laptop\bin\Debug\Create Laptop.pdb
+D:\CSharp\CSharpTraining\Create Laptop\obj\Debug\Create Laptop.csprojAssemblyReference.cache
+D:\CSharp\CSharpTraining\Create Laptop\obj\Debug\Create Laptop.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Create Laptop\obj\Debug\Create Laptop.exe
+D:\CSharp\CSharpTraining\Create Laptop\obj\Debug\Create Laptop.pdb

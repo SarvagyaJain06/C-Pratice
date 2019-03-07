@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\Swapping first and last char of string\bin\Debug\Swapping first and last char of string.exe.config
+D:\CSharp\CSharpTraining\Swapping first and last char of string\bin\Debug\Swapping first and last char of string.exe
+D:\CSharp\CSharpTraining\Swapping first and last char of string\bin\Debug\Swapping first and last char of string.pdb
+D:\CSharp\CSharpTraining\Swapping first and last char of string\obj\Debug\Swapping first and last char of string.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Swapping first and last char of string\obj\Debug\Swapping first and last char of string.exe
+D:\CSharp\CSharpTraining\Swapping first and last char of string\obj\Debug\Swapping first and last char of string.pdb

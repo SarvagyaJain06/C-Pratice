@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\Area of square\bin\Debug\Area of square.exe.config
+D:\CSharp\CSharpTraining\Area of square\bin\Debug\Area of square.exe
+D:\CSharp\CSharpTraining\Area of square\bin\Debug\Area of square.pdb
+D:\CSharp\CSharpTraining\Area of square\obj\Debug\Area of square.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Area of square\obj\Debug\Area of square.exe
+D:\CSharp\CSharpTraining\Area of square\obj\Debug\Area of square.pdb

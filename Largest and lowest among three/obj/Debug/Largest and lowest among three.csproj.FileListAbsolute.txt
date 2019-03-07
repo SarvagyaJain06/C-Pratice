@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\Largest and lowest among three\bin\Debug\Largest and lowest among three.exe.config
+D:\CSharp\CSharpTraining\Largest and lowest among three\bin\Debug\Largest and lowest among three.exe
+D:\CSharp\CSharpTraining\Largest and lowest among three\bin\Debug\Largest and lowest among three.pdb
+D:\CSharp\CSharpTraining\Largest and lowest among three\obj\Debug\Largest and lowest among three.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Largest and lowest among three\obj\Debug\Largest and lowest among three.exe
+D:\CSharp\CSharpTraining\Largest and lowest among three\obj\Debug\Largest and lowest among three.pdb

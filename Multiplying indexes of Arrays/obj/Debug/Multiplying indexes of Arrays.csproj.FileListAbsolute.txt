@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\Multiplying indexes of Arrays\bin\Debug\Multiplying indexes of Arrays.exe.config
+D:\CSharp\CSharpTraining\Multiplying indexes of Arrays\bin\Debug\Multiplying indexes of Arrays.exe
+D:\CSharp\CSharpTraining\Multiplying indexes of Arrays\bin\Debug\Multiplying indexes of Arrays.pdb
+D:\CSharp\CSharpTraining\Multiplying indexes of Arrays\obj\Debug\Multiplying indexes of Arrays.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Multiplying indexes of Arrays\obj\Debug\Multiplying indexes of Arrays.exe
+D:\CSharp\CSharpTraining\Multiplying indexes of Arrays\obj\Debug\Multiplying indexes of Arrays.pdb

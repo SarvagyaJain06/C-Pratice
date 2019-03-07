@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\HexaDecimal into Decimal\bin\Debug\HexaDecimal into Decimal.exe.config
+D:\CSharp\CSharpTraining\HexaDecimal into Decimal\bin\Debug\HexaDecimal into Decimal.exe
+D:\CSharp\CSharpTraining\HexaDecimal into Decimal\bin\Debug\HexaDecimal into Decimal.pdb
+D:\CSharp\CSharpTraining\HexaDecimal into Decimal\obj\Debug\HexaDecimal into Decimal.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\HexaDecimal into Decimal\obj\Debug\HexaDecimal into Decimal.exe
+D:\CSharp\CSharpTraining\HexaDecimal into Decimal\obj\Debug\HexaDecimal into Decimal.pdb

@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\3w in a row\bin\Debug\3w in a row.exe.config
+D:\CSharp\CSharpTraining\3w in a row\bin\Debug\3w in a row.exe
+D:\CSharp\CSharpTraining\3w in a row\bin\Debug\3w in a row.pdb
+D:\CSharp\CSharpTraining\3w in a row\obj\Debug\3w in a row.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\3w in a row\obj\Debug\3w in a row.exe
+D:\CSharp\CSharpTraining\3w in a row\obj\Debug\3w in a row.pdb

@@ -1,0 +1,7 @@
+D:\CSharp\CSharpTraining\Duplicate numbers in array\bin\Debug\Duplicate numbers in array.exe.config
+D:\CSharp\CSharpTraining\Duplicate numbers in array\bin\Debug\Duplicate numbers in array.exe
+D:\CSharp\CSharpTraining\Duplicate numbers in array\bin\Debug\Duplicate numbers in array.pdb
+D:\CSharp\CSharpTraining\Duplicate numbers in array\obj\Debug\Duplicate numbers in array.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Duplicate numbers in array\obj\Debug\Duplicate numbers in array.exe
+D:\CSharp\CSharpTraining\Duplicate numbers in array\obj\Debug\Duplicate numbers in array.pdb
+D:\CSharp\CSharpTraining\Duplicate numbers in array\obj\Debug\Duplicate numbers in array.csprojAssemblyReference.cache

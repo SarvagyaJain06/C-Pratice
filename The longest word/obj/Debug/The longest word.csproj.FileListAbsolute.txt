@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\The longest word\bin\Debug\The longest word.exe.config
+D:\CSharp\CSharpTraining\The longest word\bin\Debug\The longest word.exe
+D:\CSharp\CSharpTraining\The longest word\bin\Debug\The longest word.pdb
+D:\CSharp\CSharpTraining\The longest word\obj\Debug\The longest word.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\The longest word\obj\Debug\The longest word.exe
+D:\CSharp\CSharpTraining\The longest word\obj\Debug\The longest word.pdb

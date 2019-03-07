@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\Structure And Class\bin\Debug\Structure And Class.exe.config
+D:\CSharp\CSharpTraining\Structure And Class\bin\Debug\Structure And Class.exe
+D:\CSharp\CSharpTraining\Structure And Class\bin\Debug\Structure And Class.pdb
+D:\CSharp\CSharpTraining\Structure And Class\obj\Debug\Structure And Class.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Structure And Class\obj\Debug\Structure And Class.exe
+D:\CSharp\CSharpTraining\Structure And Class\obj\Debug\Structure And Class.pdb

@@ -1,0 +1,7 @@
+D:\CSharp\CSharpTraining\Absolute Difference\bin\Debug\Absolute Difference.exe.config
+D:\CSharp\CSharpTraining\Absolute Difference\bin\Debug\Absolute Difference.exe
+D:\CSharp\CSharpTraining\Absolute Difference\bin\Debug\Absolute Difference.pdb
+D:\CSharp\CSharpTraining\Absolute Difference\obj\Debug\Absolute Difference.csprojAssemblyReference.cache
+D:\CSharp\CSharpTraining\Absolute Difference\obj\Debug\Absolute Difference.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Absolute Difference\obj\Debug\Absolute Difference.exe
+D:\CSharp\CSharpTraining\Absolute Difference\obj\Debug\Absolute Difference.pdb

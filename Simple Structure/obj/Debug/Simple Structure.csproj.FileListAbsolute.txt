@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\Simple Structure\bin\Debug\Simple Structure.exe.config
+D:\CSharp\CSharpTraining\Simple Structure\bin\Debug\Simple Structure.exe
+D:\CSharp\CSharpTraining\Simple Structure\bin\Debug\Simple Structure.pdb
+D:\CSharp\CSharpTraining\Simple Structure\obj\Debug\Simple Structure.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Simple Structure\obj\Debug\Simple Structure.exe
+D:\CSharp\CSharpTraining\Simple Structure\obj\Debug\Simple Structure.pdb

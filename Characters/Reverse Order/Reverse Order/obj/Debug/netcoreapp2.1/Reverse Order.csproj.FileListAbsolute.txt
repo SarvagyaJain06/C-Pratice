@@ -1,0 +1,11 @@
+D:\Here is C#\Characters\Reverse Order\Reverse Order\bin\Debug\netcoreapp2.1\Reverse Order.deps.json
+D:\Here is C#\Characters\Reverse Order\Reverse Order\bin\Debug\netcoreapp2.1\Reverse Order.runtimeconfig.json
+D:\Here is C#\Characters\Reverse Order\Reverse Order\bin\Debug\netcoreapp2.1\Reverse Order.runtimeconfig.dev.json
+D:\Here is C#\Characters\Reverse Order\Reverse Order\bin\Debug\netcoreapp2.1\Reverse Order.dll
+D:\Here is C#\Characters\Reverse Order\Reverse Order\bin\Debug\netcoreapp2.1\Reverse Order.pdb
+D:\Here is C#\Characters\Reverse Order\Reverse Order\obj\Debug\netcoreapp2.1\Reverse Order.csprojAssemblyReference.cache
+D:\Here is C#\Characters\Reverse Order\Reverse Order\obj\Debug\netcoreapp2.1\Reverse Order.csproj.CoreCompileInputs.cache
+D:\Here is C#\Characters\Reverse Order\Reverse Order\obj\Debug\netcoreapp2.1\Reverse Order.AssemblyInfoInputs.cache
+D:\Here is C#\Characters\Reverse Order\Reverse Order\obj\Debug\netcoreapp2.1\Reverse Order.AssemblyInfo.cs
+D:\Here is C#\Characters\Reverse Order\Reverse Order\obj\Debug\netcoreapp2.1\Reverse Order.dll
+D:\Here is C#\Characters\Reverse Order\Reverse Order\obj\Debug\netcoreapp2.1\Reverse Order.pdb

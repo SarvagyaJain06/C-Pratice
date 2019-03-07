@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\Property Methods and Field\bin\Debug\Property Methods and Field.exe.config
+D:\CSharp\CSharpTraining\Property Methods and Field\bin\Debug\Property Methods and Field.exe
+D:\CSharp\CSharpTraining\Property Methods and Field\bin\Debug\Property Methods and Field.pdb
+D:\CSharp\CSharpTraining\Property Methods and Field\obj\Debug\Property Methods and Field.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Property Methods and Field\obj\Debug\Property Methods and Field.exe
+D:\CSharp\CSharpTraining\Property Methods and Field\obj\Debug\Property Methods and Field.pdb

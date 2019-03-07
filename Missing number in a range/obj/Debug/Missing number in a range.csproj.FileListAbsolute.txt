@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\Missing number in a range\bin\Debug\Missing number in a range.exe.config
+D:\CSharp\CSharpTraining\Missing number in a range\bin\Debug\Missing number in a range.exe
+D:\CSharp\CSharpTraining\Missing number in a range\bin\Debug\Missing number in a range.pdb
+D:\CSharp\CSharpTraining\Missing number in a range\obj\Debug\Missing number in a range.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Missing number in a range\obj\Debug\Missing number in a range.exe
+D:\CSharp\CSharpTraining\Missing number in a range\obj\Debug\Missing number in a range.pdb

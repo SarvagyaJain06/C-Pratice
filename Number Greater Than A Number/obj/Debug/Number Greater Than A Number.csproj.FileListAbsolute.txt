@@ -1,0 +1,7 @@
+D:\CSharp\CSharpTraining\Number Greater Than A Number\bin\Debug\Number Greater Than A Number.exe.config
+D:\CSharp\CSharpTraining\Number Greater Than A Number\bin\Debug\Number Greater Than A Number.exe
+D:\CSharp\CSharpTraining\Number Greater Than A Number\bin\Debug\Number Greater Than A Number.pdb
+D:\CSharp\CSharpTraining\Number Greater Than A Number\obj\Debug\Number Greater Than A Number.csprojAssemblyReference.cache
+D:\CSharp\CSharpTraining\Number Greater Than A Number\obj\Debug\Number Greater Than A Number.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Number Greater Than A Number\obj\Debug\Number Greater Than A Number.exe
+D:\CSharp\CSharpTraining\Number Greater Than A Number\obj\Debug\Number Greater Than A Number.pdb

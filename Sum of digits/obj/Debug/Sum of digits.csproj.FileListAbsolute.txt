@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\Sum of digits\bin\Debug\Sum of digits.exe.config
+D:\CSharp\CSharpTraining\Sum of digits\bin\Debug\Sum of digits.exe
+D:\CSharp\CSharpTraining\Sum of digits\bin\Debug\Sum of digits.pdb
+D:\CSharp\CSharpTraining\Sum of digits\obj\Debug\Sum of digits.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Sum of digits\obj\Debug\Sum of digits.exe
+D:\CSharp\CSharpTraining\Sum of digits\obj\Debug\Sum of digits.pdb

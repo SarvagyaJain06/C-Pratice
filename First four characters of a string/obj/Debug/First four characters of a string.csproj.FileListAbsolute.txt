@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\First four characters of a string\bin\Debug\First four characters of a string.exe.config
+D:\CSharp\CSharpTraining\First four characters of a string\bin\Debug\First four characters of a string.exe
+D:\CSharp\CSharpTraining\First four characters of a string\bin\Debug\First four characters of a string.pdb
+D:\CSharp\CSharpTraining\First four characters of a string\obj\Debug\First four characters of a string.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\First four characters of a string\obj\Debug\First four characters of a string.exe
+D:\CSharp\CSharpTraining\First four characters of a string\obj\Debug\First four characters of a string.pdb

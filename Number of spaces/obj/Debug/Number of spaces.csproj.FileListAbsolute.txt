@@ -1,0 +1,7 @@
+D:\CSharp\CSharpTraining\Number of spaces\bin\Debug\Number of spaces.exe.config
+D:\CSharp\CSharpTraining\Number of spaces\bin\Debug\Number of spaces.exe
+D:\CSharp\CSharpTraining\Number of spaces\bin\Debug\Number of spaces.pdb
+D:\CSharp\CSharpTraining\Number of spaces\obj\Debug\Number of spaces.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Number of spaces\obj\Debug\Number of spaces.exe
+D:\CSharp\CSharpTraining\Number of spaces\obj\Debug\Number of spaces.pdb
+D:\CSharp\CSharpTraining\Number of spaces\obj\Debug\Number of spaces.csprojAssemblyReference.cache

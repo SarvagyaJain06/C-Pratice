@@ -1,0 +1,7 @@
+D:\CSharp\CSharpTraining\Century from a year\bin\Debug\Century from a year.exe.config
+D:\CSharp\CSharpTraining\Century from a year\bin\Debug\Century from a year.exe
+D:\CSharp\CSharpTraining\Century from a year\bin\Debug\Century from a year.pdb
+D:\CSharp\CSharpTraining\Century from a year\obj\Debug\Century from a year.csprojAssemblyReference.cache
+D:\CSharp\CSharpTraining\Century from a year\obj\Debug\Century from a year.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Century from a year\obj\Debug\Century from a year.exe
+D:\CSharp\CSharpTraining\Century from a year\obj\Debug\Century from a year.pdb

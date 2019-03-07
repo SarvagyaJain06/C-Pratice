@@ -1,0 +1,7 @@
+D:\CSharp\CSharpTraining\Rotate Array of integers in left direction\obj\Debug\Rotate Array of integers in left direction.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Rotate Array of integers in left direction\bin\Debug\Rotate Array of integers in left direction.exe.config
+D:\CSharp\CSharpTraining\Rotate Array of integers in left direction\bin\Debug\Rotate Array of integers in left direction.exe
+D:\CSharp\CSharpTraining\Rotate Array of integers in left direction\bin\Debug\Rotate Array of integers in left direction.pdb
+D:\CSharp\CSharpTraining\Rotate Array of integers in left direction\obj\Debug\Rotate Array of integers in left direction.csprojAssemblyReference.cache
+D:\CSharp\CSharpTraining\Rotate Array of integers in left direction\obj\Debug\Rotate Array of integers in left direction.exe
+D:\CSharp\CSharpTraining\Rotate Array of integers in left direction\obj\Debug\Rotate Array of integers in left direction.pdb

@@ -1,0 +1,7 @@
+D:\CSharp\CSharpTraining\Simple Operations\bin\Debug\Simple Operations.exe.config
+D:\CSharp\CSharpTraining\Simple Operations\bin\Debug\Simple Operations.exe
+D:\CSharp\CSharpTraining\Simple Operations\bin\Debug\Simple Operations.pdb
+D:\CSharp\CSharpTraining\Simple Operations\obj\Debug\Simple Operations.csprojAssemblyReference.cache
+D:\CSharp\CSharpTraining\Simple Operations\obj\Debug\Simple Operations.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Simple Operations\obj\Debug\Simple Operations.exe
+D:\CSharp\CSharpTraining\Simple Operations\obj\Debug\Simple Operations.pdb

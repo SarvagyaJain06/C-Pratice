@@ -1,0 +1,7 @@
+D:\CSharp\CSharpTraining\Copying Array Data\bin\Debug\Copying Array Data.exe.config
+D:\CSharp\CSharpTraining\Copying Array Data\bin\Debug\Copying Array Data.exe
+D:\CSharp\CSharpTraining\Copying Array Data\bin\Debug\Copying Array Data.pdb
+D:\CSharp\CSharpTraining\Copying Array Data\obj\Debug\Copying Array Data.csprojAssemblyReference.cache
+D:\CSharp\CSharpTraining\Copying Array Data\obj\Debug\Copying Array Data.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Copying Array Data\obj\Debug\Copying Array Data.exe
+D:\CSharp\CSharpTraining\Copying Array Data\obj\Debug\Copying Array Data.pdb

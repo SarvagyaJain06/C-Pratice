@@ -1,0 +1,7 @@
+D:\CSharp\CSharpTraining\Pattern\bin\Debug\Pattern.exe.config
+D:\CSharp\CSharpTraining\Pattern\bin\Debug\Pattern.exe
+D:\CSharp\CSharpTraining\Pattern\bin\Debug\Pattern.pdb
+D:\CSharp\CSharpTraining\Pattern\obj\Debug\Pattern.csprojAssemblyReference.cache
+D:\CSharp\CSharpTraining\Pattern\obj\Debug\Pattern.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Pattern\obj\Debug\Pattern.exe
+D:\CSharp\CSharpTraining\Pattern\obj\Debug\Pattern.pdb

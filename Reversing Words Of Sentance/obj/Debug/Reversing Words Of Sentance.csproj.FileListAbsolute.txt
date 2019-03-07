@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\Reversing Words Of Sentance\bin\Debug\Reversing Words Of Sentance.exe.config
+D:\CSharp\CSharpTraining\Reversing Words Of Sentance\bin\Debug\Reversing Words Of Sentance.exe
+D:\CSharp\CSharpTraining\Reversing Words Of Sentance\bin\Debug\Reversing Words Of Sentance.pdb
+D:\CSharp\CSharpTraining\Reversing Words Of Sentance\obj\Debug\Reversing Words Of Sentance.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Reversing Words Of Sentance\obj\Debug\Reversing Words Of Sentance.exe
+D:\CSharp\CSharpTraining\Reversing Words Of Sentance\obj\Debug\Reversing Words Of Sentance.pdb

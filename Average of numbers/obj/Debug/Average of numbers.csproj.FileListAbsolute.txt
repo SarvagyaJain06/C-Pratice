@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\Average of numbers\bin\Debug\Average of numbers.exe.config
+D:\CSharp\CSharpTraining\Average of numbers\bin\Debug\Average of numbers.exe
+D:\CSharp\CSharpTraining\Average of numbers\bin\Debug\Average of numbers.pdb
+D:\CSharp\CSharpTraining\Average of numbers\obj\Debug\Average of numbers.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Average of numbers\obj\Debug\Average of numbers.exe
+D:\CSharp\CSharpTraining\Average of numbers\obj\Debug\Average of numbers.pdb

@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\To lower case\bin\Debug\To lower case.exe.config
+D:\CSharp\CSharpTraining\To lower case\bin\Debug\To lower case.exe
+D:\CSharp\CSharpTraining\To lower case\bin\Debug\To lower case.pdb
+D:\CSharp\CSharpTraining\To lower case\obj\Debug\To lower case.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\To lower case\obj\Debug\To lower case.exe
+D:\CSharp\CSharpTraining\To lower case\obj\Debug\To lower case.pdb

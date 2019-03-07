@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\Largest product of adjacent number\bin\Debug\Largest product of adjacent number.exe.config
+D:\CSharp\CSharpTraining\Largest product of adjacent number\bin\Debug\Largest product of adjacent number.exe
+D:\CSharp\CSharpTraining\Largest product of adjacent number\bin\Debug\Largest product of adjacent number.pdb
+D:\CSharp\CSharpTraining\Largest product of adjacent number\obj\Debug\Largest product of adjacent number.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Largest product of adjacent number\obj\Debug\Largest product of adjacent number.exe
+D:\CSharp\CSharpTraining\Largest product of adjacent number\obj\Debug\Largest product of adjacent number.pdb

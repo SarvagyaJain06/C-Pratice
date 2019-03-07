@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\Number of character in a string\bin\Debug\Number of character in a string.exe.config
+D:\CSharp\CSharpTraining\Number of character in a string\bin\Debug\Number of character in a string.exe
+D:\CSharp\CSharpTraining\Number of character in a string\bin\Debug\Number of character in a string.pdb
+D:\CSharp\CSharpTraining\Number of character in a string\obj\Debug\Number of character in a string.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Number of character in a string\obj\Debug\Number of character in a string.exe
+D:\CSharp\CSharpTraining\Number of character in a string\obj\Debug\Number of character in a string.pdb

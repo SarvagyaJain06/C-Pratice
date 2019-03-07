@@ -1,0 +1,7 @@
+D:\CSharp\CSharpTraining\Starting Word\obj\Debug\Starting Word.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Starting Word\obj\Debug\Starting Word.csprojAssemblyReference.cache
+D:\CSharp\CSharpTraining\Starting Word\bin\Debug\Starting Word.exe.config
+D:\CSharp\CSharpTraining\Starting Word\bin\Debug\Starting Word.exe
+D:\CSharp\CSharpTraining\Starting Word\bin\Debug\Starting Word.pdb
+D:\CSharp\CSharpTraining\Starting Word\obj\Debug\Starting Word.exe
+D:\CSharp\CSharpTraining\Starting Word\obj\Debug\Starting Word.pdb

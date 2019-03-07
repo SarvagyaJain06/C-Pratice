@@ -1,0 +1,6 @@
+D:\CSharp\CSharpTraining\Odd character of string\bin\Debug\Odd character of string.exe.config
+D:\CSharp\CSharpTraining\Odd character of string\bin\Debug\Odd character of string.exe
+D:\CSharp\CSharpTraining\Odd character of string\bin\Debug\Odd character of string.pdb
+D:\CSharp\CSharpTraining\Odd character of string\obj\Debug\Odd character of string.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpTraining\Odd character of string\obj\Debug\Odd character of string.exe
+D:\CSharp\CSharpTraining\Odd character of string\obj\Debug\Odd character of string.pdb
